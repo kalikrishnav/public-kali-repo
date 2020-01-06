@@ -1,0 +1,21 @@
+#XPaths
+MsnPage.Link.Signin.Xpath=.//*[@title='Sign in']
+
+MsnPage.Footer.FacebookLike.Xpath=.//*[@id='fbcount']/iframe
+MsnPage.Footer.TwitterFollow.Xpath=.//*[@id='twcount']/iframe
+MsnPage.CurrentLocation.Temperature.Xpath=.//div[@class='current-info']/span
+MsnPage.Field.Location.Xpath=.//div[@class='mylocations']/div[@class='header']/a[@role='button']
+MsnPage.Field.Location.Field.Search.Xpath=.//form[@class='nogps']//div[@class='add-loc-as-container']/input
+MsnPage.Field.Location.Button.Search.Xpath=.//form[@class='nogps']//div[@class='add-loc-as-container']/button
+MsnPage.Field.Location.Field.Search.AutoSuggestedResults.Xpath=.//form[@class='nogps']//div[@class='autosuggestresults']/div/ul/li
+
+#CSS Paths
+MsnPage.Button.LogIn.CssPath=input[value='Log In']
+
+
+#IDs
+MsnPage.Header.Common.Id=header-common
+
+
+
+

@@ -1,0 +1,12 @@
+# config.txt
+
+# This is a configuration file.
+# The configurations here shall be used during the text execution as needed.
+
+# Type of the browser
+# Values: chrome|edge|ie|firefox
+# Default value is chrome
+browserType=chrome
+
+# Test parameters
+msnURL1=https://www.msn.com/en-in/weather/today/New-Delhi,DL,India/we-city?iso=IN

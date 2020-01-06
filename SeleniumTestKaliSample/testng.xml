@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Functional-Test-Suite" verbose="1" preserve-order="true" configfailurepolicy="skip">
+
+    <test name="All-Functional-Tests">
+        <packages>
+            <package name="com.kali.selenium.tests"/>
+        </packages>
+    </test>
+
+</suite>
